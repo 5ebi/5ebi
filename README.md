@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Expo, NextJS, React, ReactNative**
 
-- 👨‍💻 All of my projects are available at [sebastianspeiser.com](sebastianspeiser.com)
-
 - 💬 Ask me about **React Native**
 
-- 📫 How to reach me **code@sebastianspeiser.com**
+- 📫 How to reach me **sebi.speiser@gmx.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
