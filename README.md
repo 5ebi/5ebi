@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React Native**
 
-- 📫 How to reach me **sebi.speiser@gmx.net**
+- 📫 How to reach me **work@sebastianspeiser.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
